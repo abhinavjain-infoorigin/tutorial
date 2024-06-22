@@ -101,3 +101,4 @@ langchain-google-genai
 pillow
 pdfplumber
 openai
+tabulate
